@@ -4,3 +4,5 @@ do
     curl -fSL https://raw.githubusercontent.com/nrhodes/datascienceclass/master/docs/lab02/$fnam -o $fnam
 done
 
+echo "Setup complete"
+
